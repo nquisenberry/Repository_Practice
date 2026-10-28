@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": 1,
+    "name": "jordan 8 retro",
+    "quantity": 25,
+    "price": 199.99
+  },
+  {
+    "product_id": 2,
+    "name": "Jordan Retro 1",
+    "quantity": 30,
+    "price": 49.99
+  }
+]
