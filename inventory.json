@@ -10,5 +10,11 @@
     "name": "Jordan Retro 1",
     "quantity": 30,
     "price": 49.99
+  },
+  {
+    "product_id": 3,
+    "name": "Nike Air Max Penny 2 Social Status",
+    "quantity": 15,
+    "price": 165.99
   }
 ]
