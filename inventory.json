@@ -16,5 +16,11 @@
     "name": "Nike Air Max Penny 2 Social Status",
     "quantity": 15,
     "price": 165.99
+  },
+  {
+    "product_id": 4,
+    "name": "Nike Air Max 90'",
+    "quantity": 25,
+    "price": 135.0
   }
 ]
