@@ -16,3 +16,4 @@ dog1 = Dog("Nala",10)
 print(dog1.name)
 print(dog1.age)
 print(dog1.animal)
+

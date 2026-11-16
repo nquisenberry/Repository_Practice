@@ -64,3 +64,4 @@ print(names)  # prints the list of names, which is ["John", "Jane", "Jim"]
 #  If the item is not found, it will raise a ValueError.
 
 print(names.index("Jane"))  # prints the index position of "Jane", which is 1
+

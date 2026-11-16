@@ -20,12 +20,14 @@
 # in python we can pass any data type we want into the function including lists and dictionaries.
 # in oython we can also apss data from one funtion to another.
 
-def happy_birthday(name):
-    print("Happy birthday to you!")
-    print("Happy birthday to you!")
-    print("Happy birthday dear", name)
-    print("Happy birthday to you!")
+#def happy_birthday(name):
+ #   print("Happy birthday to you!")
+  #  print("Happy birthday to you!")
+   # print("Happy birthday dear", name)
+    #print("Happy birthday to you!")
 
-myname = input("give me your name ")
+#myname = input("give me your name ")
+#
+#happy_birthday(myname)
 
-happy_birthday(myname)
+
